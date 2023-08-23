@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/alygh/Desktop/CMPEN 331/Final Project/Final Project.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/alygh/Desktop/CMPEN 331/Final Project/Final Project.srcs/sim_1/new/testbench.v,1683247064,verilog,,,,testbench,,,,,,,,
+C:/Users/alygh/Desktop/CMPEN 331/Final Project/Final Project.srcs/sources_1/new/main.v,1683247049,verilog,,C:/Users/alygh/Desktop/CMPEN 331/Final Project/Final Project.srcs/sim_1/new/testbench.v,,Ctrl;Datapath;MUX2to1;Single_Cycle_CPU;Single_Cycle_Data_Mem;Single_Cycle_Instr_Mem;adder;alu;dst_Mux;f;pc;pc_adder;pc_mux;regfile;signextend,,,,,,,,

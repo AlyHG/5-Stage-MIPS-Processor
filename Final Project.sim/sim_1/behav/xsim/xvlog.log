@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/alygh/Desktop/CMPEN 331/Final Project/Final Project.srcs/sources_1/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-311] analyzing module pc_adder
+INFO: [VRFC 10-311] analyzing module Ctrl
+INFO: [VRFC 10-311] analyzing module dst_Mux
+INFO: [VRFC 10-311] analyzing module f
+INFO: [VRFC 10-311] analyzing module MUX2to1
+INFO: [VRFC 10-311] analyzing module signextend
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-311] analyzing module pc_mux
+INFO: [VRFC 10-311] analyzing module Single_Cycle_CPU
+INFO: [VRFC 10-311] analyzing module Single_Cycle_Instr_Mem
+INFO: [VRFC 10-311] analyzing module Single_Cycle_Data_Mem
+INFO: [VRFC 10-311] analyzing module Datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/alygh/Desktop/CMPEN 331/Final Project/Final Project.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/alygh/Desktop/CMPEN 331/Final Project/Final Project.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
